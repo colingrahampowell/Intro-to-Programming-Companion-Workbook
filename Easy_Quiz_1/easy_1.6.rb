@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Question 6
+#Quiz 1, Question 6
 
 #given this string:
 

@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Question 7
+#Quiz 1, Question 7
 
 #Commented text (but not the answer) taken from the question, for clarity.
 
