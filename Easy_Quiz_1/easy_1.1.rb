@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Quiz 1, Question 1
+#Easy Quiz 1, Question 1
 
 numbers = [1,2,2,3]
 numbers.uniq

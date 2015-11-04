@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Quiz 1, Question 3
+#Easy Quiz 1, Question 3
 
 
 #replace "important" with "urgent" in this string

@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Quiz 1, Question 9
+#Easy Quiz 1, Question 9
 
 #Commented text (but not the answer) taken from the question, for clarity.
 

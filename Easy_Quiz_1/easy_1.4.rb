@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Quiz 1, Question 4
+#Easy Quiz 1, Question 4
 
 numbers = [1, 2, 3, 4, 5]
 

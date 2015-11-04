@@ -1,5 +1,5 @@
 #Tealeaf Introduction to Programming, Companion Workbook
-#Quiz 1, Question 5
+#Easy Quiz 1, Question 5
 
 
 #Programatically determine if 42 is between 10 and 100.

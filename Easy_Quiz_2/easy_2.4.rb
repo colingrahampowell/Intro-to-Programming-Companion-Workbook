@@ -1,4 +1,5 @@
-
+#Tealeaf Introduction to Programming, Companion Workbook
+#Easy Quiz 2, Question 4
 
 #Starting with this string:
 
