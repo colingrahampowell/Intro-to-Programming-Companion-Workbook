@@ -16,9 +16,9 @@ puts "munsters object_id: #{munsters.object_id}"
 
 def mess_with_demographics(demo_hash) #object ID for munsters is assigned to demo_hash
   puts "demo_hash object_id: #{demo_hash.object_id}" #same as munsters
-  hash = demo_hash #same as munsters...pattern emerging here
-  puts "hash object_id: #{hash.object_id}"
-  hash.values.each do |family_member| 
+  hash = demo_hash 
+  puts "hash object_id: #{hash.object_id}" #same as munsters...pattern emerging here
+  hash.values.each do |family_member| #this is modifying the object that all three variables point to. 
     family_member["age"] += 42 
     family_member["gender"] = "other"
   end
